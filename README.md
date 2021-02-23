@@ -1,2 +1,3 @@
 # StaticCDN
-个人CDN图床
+
+图片收藏夹
